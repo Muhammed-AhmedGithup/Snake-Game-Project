@@ -7,7 +7,7 @@ Snake and apple is a simple game where when snake eats an apple it gets longer a
 
 **Final source code is in 8_final_code_background_music.py**
 
-![](game_preview.gif)
+
 
 ### Exercise
 
@@ -17,7 +17,7 @@ If it does, game should end in same way as we end it when snake collides with it
 
 2. Try increasing speed of snake to make game little more challenging.  Reduce the sleep time to may be 0.1 sec to achieve this.
 
-[Solution](https://github.com/codebasics/python_projects/blob/main/1_snake_game/exercise_solution.py)
+[Solution](https://github.com/Muhammed-AhmedGithup/Snake-Game-Project/blob/main/snake.py)
 
 ### Tool to convert python file to .exe
 
