@@ -19,8 +19,3 @@ If it does, game should end in same way as we end it when snake collides with it
 
 [Solution](https://github.com/Muhammed-AhmedGithup/Snake-Game-Project/blob/main/snake.py)
 
-### Tool to convert python file to .exe
-
-I used below tool to convert python file to .exe file
-
-https://pypi.org/project/auto-py-to-exe/
